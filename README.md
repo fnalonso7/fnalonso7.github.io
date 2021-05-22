@@ -1,3 +1,3 @@
 # fnalonso7.github.io
-
-In this repository I'm learning how to create tateti(tic-tac-toe) with javascript, css and html for the university
+Tateti realizado con errores:
+-click en tablero antes de que finalice para volver a jugar
